@@ -103,7 +103,7 @@ const Footer = () => {
               // display: "flex",
             }}
           >
-            Gifftybabe
+            GiftCode
           </p>
         </Logo>
         <Nav>

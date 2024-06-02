@@ -150,7 +150,7 @@ const Navbar = () => {
               // display: "flex",
             }}
           >
-            Gifftybabe
+            GiftCode
           </p>
         </NavLogo>
 
