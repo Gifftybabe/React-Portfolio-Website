@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
+import { logo } from "../../assets";
 import {
   FacebookRounded,
   Instagram,
@@ -84,25 +85,45 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Ngozi Uloka</Logo>
+        <Logo
+          to="/"
+          style={{ display: "flex", alignItems: "center", gap: "2px" }}
+        >
+          <img
+            src={logo}
+            alt="logo"
+            style={{ width: 27, height: 27, objectFit: "contain" }}
+          />
+          <p
+            style={{
+              color: "#8401FF",
+              fontSize: "20px",
+              fontWeight: 600,
+              cursor: "pointer",
+              // display: "flex",
+            }}
+          >
+            Gifftybabe
+          </p>
+        </Logo>
         <Nav>
-          <NavLink href='#About'>About</NavLink>
-          <NavLink href='#Skills'>Skills</NavLink>
-          <NavLink href='#Experience'>Experience</NavLink>
-          <NavLink href='#Projects'>Projects</NavLink>
-          <NavLink href='#Education'>Education</NavLink>
+          <NavLink href="#About">About</NavLink>
+          <NavLink href="#Skills">Skills</NavLink>
+          <NavLink href="#Experience">Experience</NavLink>
+          <NavLink href="#Projects">Projects</NavLink>
+          <NavLink href="#Education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.facebook} target='display'>
+          <SocialMediaIcon href={Bio.facebook} target="display">
             <FacebookRounded />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twitter} target='display'>
+          <SocialMediaIcon href={Bio.twitter} target="display">
             <Twitter />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.linkedin} target='display'>
+          <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedIn />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target='display'>
+          <SocialMediaIcon href={Bio.insta} target="display">
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
