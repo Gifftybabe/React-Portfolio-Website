@@ -477,9 +477,9 @@ export const projects = [
     title: "Gemini Clone",
     date: "june 2024",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "The Gemini Clone app is a versatile platform designed to replicate the core features of the original Gemini. It ensures seamless data synchronization across multiple devices, providing a consistent user experience everywhere. With an intuitive interface and easy navigation, the app makes it simple to manage your data and activities efficiently. It focuses on reliability and user-friendly design, making it an essential tool for maintaining productivity and organization..",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/Gemini.jpeg?raw=true",
     tags: [
       "React Js",
       "Gemini API",
@@ -489,8 +489,8 @@ export const projects = [
       "Router",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/Gifftybabe/Gemini-Clone.git",
+    webapp: "https://geminicloneapp.netlify.app/",
   },
   {
     id: 2,
