@@ -418,7 +418,7 @@ export const projects = [
       // "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
       "GBlog is a sleek and fast blog website built using Hugo, a powerful static site generator. Designed for performance and simplicity, GBlog provides a clean and user-friendly platform for sharing articles and posts. With its responsive design, GBlog ensures a great reading experience across all devices, making it perfect for bloggers who value speed and efficiency.",
     image:
-      "https://github.com/GifftyCode/portfolio-html/blob/main/Images/GBlog.png?raw=true",
+      "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/GBlog.png?raw=true",
     tags: [
       "Hugo",
       "Markdown",
@@ -438,7 +438,7 @@ export const projects = [
     description:
       "A dynamic full stack MERN application “GiftConnect” that replicates the core functionalities of Facebook, offering users a seamless social networking experience. Enables users to create profiles, connect with friends, post updates, share photos and videos, and engage with content through likes and comments. ",
     image:
-      "https://github.com/GifftyCode/portfolio-html/blob/main/Images/GiftConnect.png?raw=true",
+      "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/GiftConnect.png?raw=true",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "WebSocket", "Redux"],
     category: "web app",
     github: "https://github.com/Gifftybabe/SocialApp.git",
@@ -452,7 +452,7 @@ export const projects = [
     description:
       "An interactive quiz game inspired by the popular TV show 'Who Wants to Be a Millionaire,' built using the React framework. It offers an engaging and dynamic user experience where players answer multiple-choice questions to climb the virtual money ladder.",
     image:
-      "https://github.com/GifftyCode/portfolio-html/blob/main/Images/MM.png?raw=true",
+      "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/MM.png?raw=true",
     tags: ["React Js", "React Router", "JavaScript (ES6+)", "Redux"],
     category: "web app",
     github: "https://github.com/Gifftybabe/who-wants-to-be-a-millionaire-.git",
@@ -472,26 +472,26 @@ export const projects = [
     //   },
     // ],
   },
-  // {
-  //   id: 1,
-  //   title: "Vexa",
-  //   date: "Oct 2022 - Jan 2023",
-  //   description:
-  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "NodeMailer",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Project-Management-App",
-  //   webapp: "https://vexa-app.netlify.app/",
-  // },
+  {
+    id: 1,
+    title: "Gemini Clone",
+    date: "june 2024",
+    description:
+      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+    image:
+      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    tags: [
+      "React Js",
+      "Gemini API",
+      "useContext",
+      "React-hooks",
+      "Redux",
+      "Router",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Project-Management-App",
+    webapp: "https://vexa-app.netlify.app/",
+  },
   {
     id: 2,
     title: "BITMEDICS",
@@ -499,7 +499,7 @@ export const projects = [
     description:
       "A comprehensive Electronic Health Record (EHR) system designed to streamline the management of patient information, improve healthcare delivery, and enhance the patient experience. Built with modern web technologies, EHR Pro provides a secure, user-friendly platform for healthcare providers to access and manage patient records, appointments, prescriptions, and more..",
     image:
-      "https://github.com/GifftyCode/portfolio-html/blob/main/Images/BITMEDICS.png?raw=true",
+      "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/BITMEDICS.png?raw=true",
     tags: [
       "React",
       "Redux",
@@ -516,37 +516,37 @@ export const projects = [
     member: [
       {
         name: "Ngozi Uloka",
-        img: "https://github.com/GifftyCode/portfolio-html/blob/main/Images/Gift.jpg?raw=true",
+        img: "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/Gift.jpg?raw=true",
         twitter: "https://twitter.com/Gifftybabe",
         github: "https://github.com/Gifftybabe",
       },
       {
         name: "Haruna Idris",
-        img: "https://github.com/GifftyCode/portfolio-html/blob/main/Images/idris.jpg?raw=true",
+        img: "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/idris.jpg?raw=true",
         twitter: "https://twitter.com/I_am_eedris",
         github: "https://github.com/eedrisofficial",
       },
       {
         name: "Zubby Shuka",
-        img: "https://github.com/GifftyCode/portfolio-html/blob/main/Images/zubby.jpg?raw=true",
+        img: "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/zubby.jpg?raw=true",
         twitter: "https://twitter.com/shukazuby",
         github: "",
       },
       {
         name: "Ajarat Azeez",
-        img: "https://github.com/GifftyCode/portfolio-html/blob/main/Images/Ajarat.jpg?raw=true",
+        img: "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/Ajarat.jpg?raw=true",
         twitter: "https://twitter.com/AjaratAzeez",
         github: "https://github.com/Ajarat-508",
       },
       {
         name: "Muhammed Najeeb",
-        img: "https://pbs.twimg.com/profile_images/1773287302715854848/e7yF2HJB_400x400.jpg",
+        img: "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/Najeeb.jpeg?raw=true",
         twitter: "https://twitter.com/_Jeebullah",
         github: "https://github.com/jeebulla",
       },
       {
         name: "Oyedunmade Damilola",
-        img: "https://pbs.twimg.com/profile_images/1704967675452014592/Vx2NgduX_400x400.jpg",
+        img: "https://github.com/Gifftybabe/React-Portfolio-Website/blob/main/src/images/Dammy.jpeg?raw=true",
         twitter: "https://twitter.com/Medic_o_der",
         github: "https://github.com/Oyedunmade1",
       },
