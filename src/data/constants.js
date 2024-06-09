@@ -55,11 +55,16 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
+      // {
+      //   name: "Bootstrap",
+      //   image:
+      //     "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      // },
       {
-        name: "Bootstrap",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
+  name: "Tailwind CSS",
+  image:
+    "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tailwind_CSS_Logo.svg",
+},
       // {
       //   name: "Material UI",
       //   image:
