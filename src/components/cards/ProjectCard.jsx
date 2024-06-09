@@ -125,7 +125,7 @@ const ProjectCard = ({ project }) => {
             style={{ width: "30px", height: "auto" }}
           />
         </a>
-        <a href={project.github} target='_blank' rel='noopener noreferrer'>
+        <a href={project.webapp} target='_blank' rel='noopener noreferrer'>
           <img
             src='https://www.svgrepo.com/show/513303/globe-1.svg'
             alt='GitHub Profile'
