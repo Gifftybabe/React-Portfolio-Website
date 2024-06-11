@@ -96,7 +96,7 @@ const Footer = () => {
           />
           <p
             style={{
-              color: "#8401FF",
+              color: "white",
               fontSize: "20px",
               fontWeight: 600,
               cursor: "pointer",
